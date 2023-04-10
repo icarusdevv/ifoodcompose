@@ -1,4 +1,4 @@
-package com.ics.ifoodcompose.ui.theme
+package com.ics.components.ui.theme
 
 import androidx.compose.material.Typography
 import androidx.compose.ui.text.TextStyle
